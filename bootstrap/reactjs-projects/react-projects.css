@@ -1,0 +1,26 @@
+body {
+  background-color: #f1f5f8;
+}
+
+.custom-jumbotron {
+  background-color: #222222;
+  height: 400px;
+}
+
+.custom-header-h1 {
+  color: #60dbfb;
+  font-weight: 800;
+}
+
+.container-jumbotron {
+  text-align: center;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-column {
+  margin-bottom: 30px !important;
+}
